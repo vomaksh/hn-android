@@ -47,8 +47,6 @@ public class HNCommentsParser extends BaseHTMLParser<HNPostComments> {
             if (mainCommentDiv == null)
                 continue;
 
-            mainCommentDiv.select("div.reply").remove();
-
             // Parse the class attribute to get the comment color
             int commentColor = getCommentColor(mainCommentDiv.classNames());
 
