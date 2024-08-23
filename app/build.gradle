@@ -27,7 +27,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.manuelmaly.hn"
+        applicationId 'com.vomaksh.hnpocket'
         minSdkVersion 14
         targetSdkVersion 33
         versionCode 26
@@ -68,5 +68,5 @@ android {
 
         }
     }
-    namespace 'com.manuelmaly.hn'
+    namespace 'com.vomaksh.hnpocket'
 }

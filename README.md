@@ -1,4 +1,4 @@
-HN (Android)
+HN Pocket
 ============
 
 This is the official repo for **HN**, an unofficial Hacker News client for Android, built for reliability and usability.  

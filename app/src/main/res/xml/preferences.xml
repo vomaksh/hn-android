@@ -28,7 +28,7 @@
         android:title="@string/pref_title_pulldownrefresh"
         android:defaultValue="@bool/pref_default_pulldownrefresh" />
     
-    <com.manuelmaly.hn.UserPreference 
+    <com.vomaksh.hnpocket.UserPreference
       android:key="pref_user"
       android:layout="@layout/user_settings" 
       />
